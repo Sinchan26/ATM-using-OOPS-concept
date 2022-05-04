@@ -60,7 +60,7 @@ public class ChoiceMenu extends Account {
 		System.out.println("Type 3- Exit");
 		System.out.println("Choice: ");
 		
-		selection=menuInput.nextInt();
+		int selection=menuInput.nextInt();
 		
 		switch(selection)
 		{
